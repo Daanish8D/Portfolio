@@ -7,4 +7,4 @@ list = sys.argv
 
 list.sort(key=shortest)
 
-print(list[:1])
+print(list[1:])
