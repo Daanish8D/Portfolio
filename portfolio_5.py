@@ -67,4 +67,5 @@ print(list[:-1])
 print("Highest temperature is:", max(temps))
 print("Lowest temperature is:", min(temps))
 print("The mean temperature is:", statistics.mean(temps))
+
 """
